@@ -1,0 +1,23 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasahiro0125/electron-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasahiro0125/electron-test/issues"
+  },
+  "homepage": "https://github.com/sasahiro0125/electron-test#readme",
+  "devDependencies": {
+    "electron": "^1.4.2"
+  }
+}
